@@ -10,4 +10,4 @@ This application, in its final finished state, could allow for easier accessibil
 We're very happy to present our creation in this format for the world to see. 
 Coming soon.
 
-Under development by Kevin Robbins, Ryan Diaz, Sean Hentschel and Charlie Mountain, 2017
+Under development by Kevin Robbins and Ryan Diaz, 2017
