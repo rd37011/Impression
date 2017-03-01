@@ -11,3 +11,6 @@ We're very happy to present our creation in this format for the world to see.
 Coming soon.
 
 Under development by Kevin Robbins and Ryan Diaz, 2017
+All rights reserved.
+
+(Please note that for purposes of saving space and confidentiality, only source code will be pushed to this repository. Other essential files will be stored locally)
